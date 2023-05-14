@@ -10,3 +10,5 @@ This section contains ideas for the project. Feel free to add your own ideas.
   - [MuseGAN](https://github.com/salu133445/musegan)
 - Dataset:
   - [GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano)
+- List of resources:
+  - [Deep Learning Music Generation](https://github.com/carlosholivan/DeepLearningMusicGeneration)
