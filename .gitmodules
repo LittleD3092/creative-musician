@@ -1,0 +1,3 @@
+[submodule "musegan"]
+	path = musegan
+	url = git@github.com:LittleD3092/musegan.git
