@@ -8,10 +8,10 @@
 
 ## 2. Prerequisite
 
-將 repo clone 下來：
+將 repo clone 下來，由於我們使用了 submodule，因此 clone 時要注意加上 `--recursive` 選項：
 
 ```bash
-git clone https://github.com/LittleD3092/creative-musician.git
+git clone --recursive https://github.com/LittleD3092/creative-musician.git
 ```
 
 更改 work directory 到 `bachsformer`：
